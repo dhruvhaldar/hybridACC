@@ -1,5 +1,7 @@
 # HybridACC : EL2450 Hybrid Adaptive Cruise Control (ACC) system
 
+![Simulation Animation](simulation.gif)
+
 This project implements a Hybrid Adaptive Cruise Control (ACC) system for [KTH Royal Institute of Technology : EL2450 Hybrid and Embedded Control Systems](https://www.kth.se/student/kurser/kurs/EL2450). It models the continuous dynamics of two vehicles (Lead and Ego) and a discrete hybrid controller that switches between different modes of operation.
 
 ## Features
@@ -105,8 +107,6 @@ An animation of the vehicles is also generated to visualize the spatial dynamics
 -   **Blue Dot**: Ego Vehicle.
 -   **Red Dot**: Lead Vehicle.
 -   The view pans to keep both vehicles centered as they travel.
-
-![Simulation Animation](simulation.gif)
 
 ## Source Code
 
